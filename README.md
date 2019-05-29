@@ -1,5 +1,5 @@
 # Reverse Engineering the Walk Score Algorithm
-Using Machine Learning to Recreate Walk Score's Methodology: What makes a location "Walkable"?
+Using Machine Learning to Recreate Walk Score's Methodology: What makes a location Walkable?
 
 <img src="heatmap.png" height="500" >
 
