@@ -1,7 +1,7 @@
 # Reverse Engineering the Walk Score Algorithm
 Using Machine Learning to Recreate Walk Score's Methodology: What makes a location "Walkable"?
 
-<img src="heatmap.png" height="400">
+<img src="heatmap.png" height="400" width="400">
 
 
 I've previously used the Walk Score API as a data source for [predicting clustering of electric scooter locations] (https://towardsdatascience.com/a-birds-eye-view-leveraging-machine-learning-to-generate-nests-30dd2136a839). Walk Score is a website that takes an address and computes, using proprietary algorithms and various data streams, a measure of its walkability on a scale from 0–100.
