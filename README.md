@@ -4,7 +4,7 @@ Using Machine Learning to Recreate Walk Score's Methodology: What makes a locati
 <img src="heatmap.png" height="500" >
 
 
-I've previously used the Walk Score API as a data source for [predicting clustering of electric scooter locations] (https://towardsdatascience.com/a-birds-eye-view-leveraging-machine-learning-to-generate-nests-30dd2136a839). Walk Score is a website that takes an address and computes, using proprietary algorithms and various data streams, a measure of its walkability on a scale from 0–100.
+I've previously used the Walk Score API as a data source for [predicting clustering of electric scooter locations](https://towardsdatascience.com/a-birds-eye-view-leveraging-machine-learning-to-generate-nests-30dd2136a839). Walk Score is a website that takes an address and computes, using proprietary algorithms and various data streams, a measure of its walkability on a scale from 0–100.
 As someone who enjoys walking (and hiking!), I've become curious as to what fuels these proprietary algorithms that generate a walkability score. 
 
 I set out to ask the following questions: 
